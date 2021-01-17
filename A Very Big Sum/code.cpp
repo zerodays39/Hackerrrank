@@ -5,7 +5,6 @@ using namespace std;
 vector<string> split_string(string);
 
 
-
 // user code
 
 long aVeryBigSum(vector<long> ar) {
