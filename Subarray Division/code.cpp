@@ -6,7 +6,8 @@ string ltrim(const string &);
 string rtrim(const string &);
 vector<string> split(const string &);
 
-// Complete the birthday function below.
+//user code
+
 int birthday(vector<int> s, int d, int m) {
     int n=s.size(),sum=0;
     int count=0;
@@ -22,9 +23,10 @@ int birthday(vector<int> s, int d, int m) {
         sum=0;
     }
     return count;
-
-
 }
+
+
+//user code
 
 int main()
 {
