@@ -6,7 +6,9 @@ string ltrim(const string &);
 string rtrim(const string &);
 vector<string> split(const string &);
 
+
 //user code
+
 
 void bonAppetit(vector<int> bill, int k, int b)
  {
