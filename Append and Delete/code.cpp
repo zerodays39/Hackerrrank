@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// Complete the appendAndDelete function below.
 string appendAndDelete(string s, string t, int k) {
     int i = 0, s_len, t_len;
     s_len = s.length();
